@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "PragueeParking\UI.csproj", "{8A086E2C-C1E0-4DB6-8BDA-16DAA2477A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{FC56EFC1-1BE6-4FCD-94EB-9BBBC366AA07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{CA772D9A-B4FA-4802-B349-21E905A5E209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A086E2C-C1E0-4DB6-8BDA-16DAA2477A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A086E2C-C1E0-4DB6-8BDA-16DAA2477A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A086E2C-C1E0-4DB6-8BDA-16DAA2477A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A086E2C-C1E0-4DB6-8BDA-16DAA2477A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC56EFC1-1BE6-4FCD-94EB-9BBBC366AA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC56EFC1-1BE6-4FCD-94EB-9BBBC366AA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC56EFC1-1BE6-4FCD-94EB-9BBBC366AA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC56EFC1-1BE6-4FCD-94EB-9BBBC366AA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA772D9A-B4FA-4802-B349-21E905A5E209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA772D9A-B4FA-4802-B349-21E905A5E209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA772D9A-B4FA-4802-B349-21E905A5E209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA772D9A-B4FA-4802-B349-21E905A5E209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35CBAC02-3DF6-4DD0-B6C4-45BBAE6A63C5}
+	EndGlobalSection
+EndGlobal
